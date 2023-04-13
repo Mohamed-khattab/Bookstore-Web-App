@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 2. Open the project in your IDE of choice
 3. Update the database configuration in the `application.properties` file to match your MySQL server settings
 4. Run the `BookstoreApplication` class to start the application
-5. Navigate to `http://localhost:8080` in your web browser to access the application
+5. Navigate to `http://localhost:1001/home` in your web browser to access the application
 
 ## Features
 
@@ -34,7 +34,7 @@ The following features are currently implemented in this application:
 - Delete a book from the bookstore
 - View a list of all books in the bookstore
 - Add books to your cart
-- Delete books from your cart
+- Delete books from your cart <br>
 ![features](features.png)
 
 ## UI
